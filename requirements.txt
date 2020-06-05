@@ -4,7 +4,7 @@ Babel==2.3.4
 bleach==1.5.0
 cycler==0.10.0
 decorator==4.0.11
-Django==1.10.5
+Django==1.11.29
 docutils==0.13.1
 entrypoints==0.2.2
 html5lib==0.9999999
